@@ -1,7 +1,7 @@
 [![Header](https://github.com/BladislaB/bladislab/blob/master/assets/bg.jpg)](https://bladislab.github.io/)
 
 # Hi there 👋, I'm Vlad. 25 y.o.
-#### 🌐 i'm Web-developer and freelancer
+####
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bladislab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
